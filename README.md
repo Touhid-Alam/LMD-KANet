@@ -2,9 +2,13 @@
 
 <div align="center">
   <a href="https://eliteresearch.org">
-    <img src="<img width="1447" height="1447" alt="logo" src="https://github.com/user-attachments/assets/9eca617d-b821-49c2-9a2f-74d7ade1151d" />
-" alt="ELITE Research Lab Logo" width="280">
+    <img src="asset/logo.png" alt="ELITE Research Lab Logo" width="280">
   </a>
+  
+  <h3>ELITE Research Lab | Transparent, reliable AI for everyone.</h3>
+</div>
+
+<br>
   
   <h3>ELITE Research Lab | Transparent, reliable AI for everyone.</h3>
 </div>
