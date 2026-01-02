@@ -1,5 +1,15 @@
 # LMD-KANet: A Lightweight Multimodal Dual-Attention Kolmogorov-Arnold Network for Robust and Interpretable Cross-Domain Lung Cancer Diagnosis
-[![Framework](ELITE Research Lab)]
+
+<div align="center">
+  <a href="https://eliteresearch.org">
+    <img src="<img width="1447" height="1447" alt="logo" src="https://github.com/user-attachments/assets/9eca617d-b821-49c2-9a2f-74d7ade1151d" />
+" alt="ELITE Research Lab Logo" width="280">
+  </a>
+  
+  <h3>ELITE Research Lab | Transparent, reliable AI for everyone.</h3>
+</div>
+
+<br>
 [![Paper Status](https://img.shields.io/badge/Status-Submitted-green)](https://doi.org/10.3390/1010000) [![License](https://img.shields.io/badge/License-CC_BY_4.0-blue.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Parameters](https://img.shields.io/badge/Parameters-3.5M-lightgrey)](https://github.com/)
 [![Framework](https://img.shields.io/badge/PyTorch-Deep_Learning-orange)](https://pytorch.org/)
