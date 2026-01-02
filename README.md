@@ -1,23 +1,19 @@
 # LMD-KANet: A Lightweight Multimodal Dual-Attention Kolmogorov-Arnold Network for Robust and Interpretable Cross-Domain Lung Cancer Diagnosis
 
+
+[![Paper Status](https://img.shields.io/badge/Status-Submitted-green)](https://doi.org/10.3390/1010000) [![License](https://img.shields.io/badge/License-CC_BY_4.0-blue.svg)](https://creativecommons.org/licenses/by/4.0/) [cite: 13]
+[cite_start][![Parameters](https://img.shields.io/badge/Parameters-3.5M-lightgrey)](https://github.com/)
+[![Framework](https://img.shields.io/badge/PyTorch-Deep_Learning-orange)](https://pytorch.org/)
+
 <div align="center">
   <a href="https://eliteresearch.org">
-    <img src="asset/logo.png" alt="ELITE Research Lab Logo" width="280">
+    <img src="asset/logo.png" alt="ELITE Research Lab Logo" width="200">
   </a>
   
   <h3>ELITE Research Lab | Transparent, reliable AI for everyone.</h3>
 </div>
 
 <br>
-  
-  <h3>ELITE Research Lab | Transparent, reliable AI for everyone.</h3>
-</div>
-
-<br>
-[![Paper Status](https://img.shields.io/badge/Status-Submitted-green)](https://doi.org/10.3390/1010000) [![License](https://img.shields.io/badge/License-CC_BY_4.0-blue.svg)](https://creativecommons.org/licenses/by/4.0/) [cite: 13]
-[cite_start][![Parameters](https://img.shields.io/badge/Parameters-3.5M-lightgrey)](https://github.com/)
-[![Framework](https://img.shields.io/badge/PyTorch-Deep_Learning-orange)](https://pytorch.org/)
-
 ## 📜 Abstract
 **LMD-KANet** is a lightweight deep learning framework designed to address the high computational cost and "black box" nature of automated lung cancer diagnosis. With a compact footprint of only **3,496,530 parameters**, this architecture is engineered for robust cross-domain performance across histopathology and radiology.
 
